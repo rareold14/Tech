@@ -1,0 +1,138 @@
+.qualidades-container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 85vw;
+    height: auto;
+    padding: 50px 50px 50px 50px;
+    gap: 1.4rem;
+}
+
+.qualidades-titulo{
+    font-size: 36.4px;
+    font-weight: 700;
+    padding-left: 50px;
+}
+
+.qualidades-imagem{
+    width: auto;
+    height: 48vh;
+    background-color: #e8e8e8;
+}
+
+.qualidades-apresentacoes{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
+
+.qualidades-atributos{
+    font-size: 15px;
+    font-weight: 600;
+    padding: 5px;
+    margin: 3px;
+    display: flex;
+    align-items: center;
+    text-align: left;
+}
+
+.qualities{
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    color: #282828ee;
+    padding-left: 15px;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #d9d9d9cc;
+    width: 20vw;
+}
+
+.qualities-paragrafo{
+    align-self: center;
+
+}
+
+.icones{
+    margin-right: 12px;
+    color: #191919;
+    margin-top: 10px;
+}
+
+.apresentacoes{
+    display: flex;
+    justify-content: center;
+    padding-left: 40px;
+    background: #d9d9d9cc;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #d9d9d9cc;
+    color: #2a2a2a;
+    align-self: center;
+    width: 50vw;
+    max-height: 51px;
+}
+
+.qualities-paragrafo2{
+    font-size: 13px;
+    text-align: center;
+    margin-top: 10px;
+    padding-bottom: 5px;
+}
+
+.apresentacoes1{
+    display: flex;
+    justify-content: center;
+    padding-left: 40px;
+    margin-right: 20px;
+    background: #d9d9d9cc;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #d9d9d9cc;
+    color: #2a2a2a;
+    align-items: center;
+    width: 25vw;
+    max-height: 51px;
+}
+
+.apresentacoes2{
+    display: flex;
+    justify-content: center;
+    padding-left: 16px;
+    background: #d9d9d9cc;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #d9d9d9cc;
+    color: #2a2a2a;
+    align-items: center;
+    width: 23.7vw;
+    max-height: 51px;
+}
+
+.qualidades-compra{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+    align-content: flex-end;
+}
+
+.qualidades-botao{
+    background-color: #1241af;
+    color: whitesmoke;
+    border: solid;
+    border: #1241af;
+    border-radius: 2mm;
+    margin: 14px 14vw 14px 0px;
+    width: 23.7vw;
+    height: 51px;
+}
+
+.qualidades-botao:hover{
+    background-color: #1414af;
+    color: #ddd;
+    cursor:pointer;
+}
+

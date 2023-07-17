@@ -1,0 +1,109 @@
+.sistema-operacional{
+    max-width: 90vw;
+    padding-top: 25px;
+    display: flex;
+    flex-flow: column nowrap;
+    padding-left: 10em;
+}
+.sistema-windows{
+        display: flex;
+        flex-flow: column wrap;
+        text-align: left;
+        justify-content: center;
+        padding: 20px 25px 60px 25px;
+        background: linear-gradient(16deg, #D5D7DC 51%, #F5f5F5 87%, #fff2e7ad 100%);  
+}        
+
+.titulo-sistema{
+    font-size: 14px;
+    color:#474747ee;
+}
+
+
+.nome-sistema{
+    font-size: 28px;
+    color: #474747ee;
+}
+
+.sistema-linux{
+    display: flex;
+    flex-flow: column wrap;
+    text-align: left;
+    justify-content: center;
+    padding: 20px 25px 60px 25px;
+    background: linear-gradient(16deg, #D5D7DC 51%, #F5f5F5 87%, #fff2e7ad 100%);  
+    margin-top: 3.4%;       
+}
+
+.hardware{
+    display: flex;
+    justify-content: center;
+    margin-top: 45px;
+    gap: 2.8rem;
+}
+
+.armazenamento-container{
+    background-color: #0087e3;
+    font-family: 'Roboto', sans-serif;
+    height: 60vh;
+    width: 34vw;
+    justify-content: center;
+}
+
+.armazenamento-espaco{
+    margin: 4.8rem;
+}
+
+.armazenamento-titulo{
+    text-align: left;
+    color: #f5f5f5;
+    padding-top: 12px;
+    padding-left: 20px;
+}
+
+.armazenamento-subtitulo{
+    text-align: center;
+    color: #f5f5f5;
+    padding-top: 30px;
+    font-size: 22px;
+}
+
+.armazenamento-apresentacao{
+    text-align: center;
+    color: #212a57;
+    font-size: 22px;
+}
+
+.armazenamento-texto{
+    text-align: center;
+    color: #212a57;
+    font-size: 18px;
+}
+
+.memoria-ram-container{
+    background-color: #e80158;
+    height: 60vh;
+    width: 22vw;
+}
+
+.memoria-ram-titulo{
+    text-align: left;
+    color: #f5f5f5;
+    padding-top: 12px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+}
+
+.memoria-ram-subtitulo{
+    text-align: center;
+    color: #f5f5f5;
+    padding-top: 30px;
+    font-size: 24px;
+}
+
+.memoria-ram-texto{
+    text-align: center;
+    color: #f5f5f5;
+    padding-top: 18px;
+    font-size: 16px;
+}

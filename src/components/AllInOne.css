@@ -1,0 +1,62 @@
+.all-in-one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4.2rem;
+    padding-left: 7.8rem;
+}
+
+.all-in-one-container{
+    position: relative;
+    width: 23rem;
+    flex-flow: column wrap;
+    justify-content: baseline;
+    align-content: flex-start;
+    padding-left: 6rem;
+    padding-top: 32px;
+}
+
+.all-in-one-titulo{
+    font-size: 35.3px;
+    width: 16px;
+    letter-spacing: 1.44px;
+}
+
+.all-in-one-texto{
+    padding-top: 24px;
+    font-size: 16px;
+    text-align: left;
+}
+
+.all-in-one-atributos{
+    display: grid;
+    grid-template-columns: repeat(2, 40%);
+    column-gap: 1.91rem;
+    padding-top: 26px;
+}
+
+.all-in-one-atributos h2{
+    font-size: 38px;
+    color:#ae9555;
+}
+
+.all-in-one-telas{
+    font-size: 15px;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+
+.all-in-one-imagem-container{
+display: flex;
+flex-flow: row;
+padding: 10px;
+align-items: center;
+}
+
+.all-in-one-imagem{
+ width: 70%;
+ padding-left: 12rem;
+}
+
+
+

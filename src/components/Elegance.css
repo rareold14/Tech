@@ -1,0 +1,58 @@
+.elegance{
+height: 81.5vh;
+background-image: url(https://strongtechbrasil.com.br/wp-content/uploads/2023/06/produtividade-com-elegancia.webp);
+background-repeat: no-repeat;
+background-color: #fff;
+color: #000;
+background-size: cover;
+}
+
+.elegance-atributos{
+display: flex;
+flex-flow: row wrap;
+justify-content: flex-end;
+width: auto;
+margin-top: 60px;
+text-align: center;
+}
+
+.elegance-atributos-titulo{
+font-size: 28px;
+line-height: 2.8rem;
+font-weight: 500;
+float: right;
+margin-right: 4.6rem;
+}
+
+.elegance-atributos-container{
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: flex-end;
+gap: 0.7rem;
+width: 20vw;
+margin-left: 65vw;
+padding: 20px;
+}
+
+.elegance-icon{
+align-items: flex-end;
+float: left;
+margin-right: 7.7px;
+color: #262626;
+}
+
+.elegance-elementos-titulo{
+    margin-right: 14px;
+    font-size: 20px;
+    color: #171717;
+    text-align: center;
+    letter-spacing: 1.2px;
+}
+
+.elegance-elementos-texto{
+    font-size: 15.7px;
+    color: #717171;
+    text-align: center;
+    line-height: 20px;
+}

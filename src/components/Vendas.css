@@ -1,0 +1,74 @@
+.vendas{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    padding: 3rem 3rem 3rem 10rem;
+}
+
+.vendas-visual{
+    margin: 4rem;
+}
+
+.vendas-allinone{
+    width: 30vw;
+}
+
+.vendas-titulo{
+    margin-right: 8.8rem;
+    font-size: 32px;
+}
+
+.vendas-visualizacoes{
+    display: flex;
+    background-color: rgb(185, 195, 255);
+    width: 34vw;
+    height: 50px;
+    border-radius:.7em;
+}
+
+.vendas-visualizacoes p{
+    color: #777777;
+}
+
+.vendas-icones{
+    color: #1106ce;
+    margin: 12px 6px 0px 6px;
+}
+
+.vendas-cincoporcento{
+    color: #1106ce;
+    font-size: 25px;
+}
+
+.vendas-pix{
+    font-size: 34px;
+    font-weight: 500;
+    padding: unset;
+}
+
+.vendas-preco{
+    font-size: 23px;
+    font-size: 400;
+    padding: unset;
+}
+
+.preco{
+    font-size: 27px;
+}
+
+.vendas-botao{
+    background-color: #1241af;
+    color: whitesmoke;
+    border: solid;
+    border: #1241af;
+    border-radius: 2mm;
+    margin: unset;
+    width: 17.7vw;
+    height: 51px;
+}
+
+.vendas-botao:hover{
+    background-color: #1414af;
+    color: #ddd;
+    cursor:pointer;
+}

@@ -1,0 +1,97 @@
+.footer-strong{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    align-items: baseline;
+    padding: 60px 60px 60px 80px;
+    margin: 30px 20px 20px 30px;
+    width: 100vw;
+    line-height: 1.29rem;
+    letter-spacing: 0.14px;
+}
+
+.footer-institucional{
+    font-weight: 500;  
+}
+
+.footer-politicas{
+    font-weight: 500; 
+}
+
+.footer-link-titulo{
+    font-size: 20px;
+}
+
+.footer-link-lista{
+    padding-top: 2px;
+    font-size: 16px;
+    list-style-type: none;
+}
+
+.footer-link{
+    text-decoration: none;
+    color: #777777;
+}
+
+.footer-link:hover{
+    color: #1414af;
+}
+
+.footer-sociais{
+    padding-left: 50px;
+}
+
+.footer-sociais-titulo{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.footer-sociais-icones-lista{
+    display: flex;
+    gap: 10px;
+}
+
+
+.footer-sociais-icones:hover{
+    color: #1414af;
+    transition: 0.4s ease-in-out;
+    cursor: pointer;
+}
+
+.footer-atendimento{
+    padding: 30px;
+}
+
+.footer-atendimento-titulo{
+    font-weight: 500;
+    font-size: 20px;
+    margin: unset;
+}
+
+.footer-atendimento-links{
+    font-size: 14px;
+}
+
+.footer-atendimento-links:hover{
+    color: #1414af;
+    transition: 0.4s ease-in-out;
+}
+
+.footer-pagamentos-seguranca{
+    padding: 30px;
+}
+
+.footer-pagamentos-titulo{
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.footer-pagamentos-imagem{
+    width: 30%;
+    height: auto;
+}
+
+.footer-seguranca-titulo{
+    font-weight: 500;
+    font-size: 18px;
+}

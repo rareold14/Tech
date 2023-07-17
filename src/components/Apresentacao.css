@@ -1,0 +1,57 @@
+.strong-containers{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 30px;
+}
+
+.strong-container{
+    font-family: 'Roboto', sans-serif;
+}    
+
+.strong-container2{
+    font-family: 'Roboto', sans-serif;                                         
+}
+
+.versatilidade{
+    background-color: #0a1442;
+    width: 30vw;
+    height: 68vh;
+    text-align: center;
+}
+
+.versatilidade-titulo{
+    font-size: 1.8vw;
+    color: #e9c465;
+}
+
+.versatilidade-texto{
+    font-size: 2.2vw;
+    color: #d1d1d1;
+}
+
+.versatilidade-complemento{
+    font-size: 1.8vw;
+    color:#e9c465;
+}
+
+.webcam{
+    background: linear-gradient(190deg, #D5D7DC 51%, #F5f5F5 87%, #fff2e7ad 100%);
+    color: #4e4e4ebf;
+    width: 28vw;
+    height: 68vh;
+    text-align: left
+};
+
+.webcam-integrada{
+    font-size: 1.3vw;
+}
+
+.webcam-integrada-subtitulo{
+    font-size: 1vw;
+}
+
+.webcam-integrada-texto{
+    font-size: 1.1vw;
+}

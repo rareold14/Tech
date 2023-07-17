@@ -1,0 +1,40 @@
+.navbar{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding:.5rem 1rem;
+    margin: 20px;
+}
+
+.strong-logo{
+    width: 12vw;
+    height: auto;
+    cursor: pointer;
+}
+
+.windows-logo{
+    width: 14vw;
+    height: auto;
+}
+
+.windows-10{
+    flex-direction: row;
+}
+
+.link-strong{
+  width: 100px;
+  height: 40px;
+  text-align: center;
+  color: #F5f5f5;
+  background-color: #1241af;
+  border: none;
+  border-radius: 10px;
+}
+
+.link-strong:hover{
+    background-color: #1414af;
+    color: #ddd;
+    transition: all ease-out 2.2s ;
+    cursor: pointer;
+}

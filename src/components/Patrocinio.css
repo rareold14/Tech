@@ -1,0 +1,17 @@
+.patrocinio{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: #0000001B;
+}
+
+.patrocinio-produto{
+    padding: 30px;
+}
+
+.patrocinio-imagem{
+    width: 7vw;
+    height: auto;
+}

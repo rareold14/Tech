@@ -1,0 +1,65 @@
+.entradas{
+display: flex;
+justify-content: center;
+padding-top: 32px;
+gap: 1.8rem;
+}
+
+.entradas-container{
+display: flex;
+flex-flow: row wrap;
+align-items: center;
+justify-content: space-evenly;
+padding: 60px 50px 20px 120px;
+}
+
+.entradas-titulo{
+font-size: 38px;
+letter-spacing: 3.5px;
+align-self: center;
+text-align: center;
+font-weight: 700;
+}
+
+.entradas-texto{
+text-align: left;
+align-self: center;
+width: 30vw;
+font-size: 16.7px;
+font-weight: 500;
+}
+
+.entradas-imagem{
+width: 50%;
+height: 50%;
+align-self: center;
+padding-right: 80px;
+}
+
+.entradas-entradas{
+display: flex;
+flex-flow: row wrap;
+justify-content: center;
+gap: 3.7rem;
+}
+
+.entradas-portas{
+padding-top: 10px;
+font-size: 25.7px;
+font-weight: 900;
+color: #ae9555;
+text-align: center;
+}
+
+.entradas-conexoes{
+align-self: center;
+font-weight: 500;
+font-size: 16.7px;
+color:#12121f;
+text-align: center;
+}
+
+.entradas-portas h2, .entradas-portas p{
+    margin: unset;
+    padding: unset;
+}
