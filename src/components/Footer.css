@@ -3,11 +3,9 @@
     flex-flow: row nowrap;
     justify-content: space-around;
     align-items: baseline;
-    padding: 60px 60px 60px 80px;
-    margin: 30px 20px 20px 30px;
+    padding: 6vh 8vw 8vw 6vh;
     width: 100vw;
-    line-height: 1.29rem;
-    letter-spacing: 0.14px;
+    line-height: 1.29vw;
 }
 
 .footer-institucional{
@@ -19,12 +17,14 @@
 }
 
 .footer-link-titulo{
-    font-size: 20px;
+    font-size: 2.4vh;
+    padding: unset;
+    margin: unset;
 }
 
 .footer-link-lista{
-    padding-top: 2px;
-    font-size: 16px;
+    padding-top: 1vh;
+    font-size: 1.8vh;
     list-style-type: none;
 }
 
@@ -38,17 +38,20 @@
 }
 
 .footer-sociais{
-    padding-left: 50px;
+    padding-left: 5vh;
+    padding-top: 1vh;
 }
 
 .footer-sociais-titulo{
-    font-size: 20px;
+    font-size: 2.4vh;
     font-weight: 500;
 }
 
 .footer-sociais-icones-lista{
     display: flex;
-    gap: 10px;
+    padding-top: 1vw;
+    gap: 0.8vw;
+    font-size: 1.8vw;
 }
 
 
@@ -59,17 +62,17 @@
 }
 
 .footer-atendimento{
-    padding: 30px;
+    padding: 2.1vw;
 }
 
 .footer-atendimento-titulo{
     font-weight: 500;
-    font-size: 20px;
+    font-size: 2.4vh;
     margin: unset;
 }
 
 .footer-atendimento-links{
-    font-size: 14px;
+    font-size: 1.8vh;
 }
 
 .footer-atendimento-links:hover{
@@ -78,20 +81,25 @@
 }
 
 .footer-pagamentos-seguranca{
-    padding: 30px;
+    padding: 1.8vh;
 }
 
 .footer-pagamentos-titulo{
     font-weight: 500;
-    font-size: 18px;
+    font-size: 2.1vh;
 }
 
 .footer-pagamentos-imagem{
-    width: 30%;
+    width: 14vw;
     height: auto;
 }
 
 .footer-seguranca-titulo{
     font-weight: 500;
-    font-size: 18px;
+    font-size: 2.1vh;
+}
+
+.footer-seguranca-imagem{
+    width: 9vh;
+    height: auto;
 }

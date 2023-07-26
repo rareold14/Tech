@@ -12,16 +12,16 @@ display: flex;
 flex-flow: row wrap;
 justify-content: flex-end;
 width: auto;
-margin-top: 60px;
+margin-top: 6vh;
 text-align: center;
 }
 
 .elegance-atributos-titulo{
-font-size: 28px;
-line-height: 2.8rem;
+font-size: 1.6vw;
+line-height: 2.3vw;
 font-weight: 500;
-float: right;
-margin-right: 4.6rem;
+margin: 4vh;
+padding: 2vh;
 }
 
 .elegance-atributos-container{
@@ -29,30 +29,29 @@ display: flex;
 flex-direction: column;
 justify-content: flex-end;
 align-items: flex-end;
-gap: 0.7rem;
 width: 20vw;
-margin-left: 65vw;
-padding: 20px;
+margin-left: 60vw;
 }
 
 .elegance-icon{
 align-items: flex-end;
 float: left;
-margin-right: 7.7px;
+margin: 2vh;
 color: #262626;
+font-size: 2.8vw;
 }
 
 .elegance-elementos-titulo{
-    margin-right: 14px;
-    font-size: 20px;
+    margin: 1.4vh;
+    font-size: 1.3vw;
     color: #171717;
     text-align: center;
-    letter-spacing: 1.2px;
+    letter-spacing: 0.12vh;
 }
 
 .elegance-elementos-texto{
-    font-size: 15.7px;
+    font-size: 1vw;
     color: #717171;
     text-align: center;
-    line-height: 20px;
+    line-height: 2.5vh;
 }

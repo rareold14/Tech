@@ -3,57 +3,53 @@
     justify-content: center;
     align-content: center;
     height: 100vh;
-    width: 80vw;
-    padding-left: 20px;
-    margin: unset;
+    width: 100%;
+    padding: 6vh;
 }
 
 .completo-allinone-visual{
     height: 60vh;
+    width: 45%;
 }
 
 .completo-allinone-imagem{
-    width: 40vw;
-    height: auto;
-    padding-left: 14rem;
+    height: 38vw;
 }
 
 .completo-allinone-lista{
     align-items: flex-start;
+    width: 45%;
     height: 60vh;
-    padding-left: 14rem;
 }
 
 .completo-allinone-titulo{
-    font-size: 30px;
-    padding-top: .9rem;
+    font-size: 1.8vw;
+    padding-top: .9vh;
 }
 
 .completo-allinone-listagem{
     display: flex;
     flex-flow: column wrap;
-    line-height: 15.9px;
-    padding-right: 10px;
-    word-spacing: 5px;
-    align-self: flex-start;
+    line-height: 2.16vh;
+    align-self: flex-end;
 }
 
 .completo-allinone-listagem-item{
-    font-size: 15px;
+    font-size: 1vw;
     font-weight: 450;
     color:#757575ff;
-    padding-right: 14px;
+    padding-right: 1.4vh;
     text-align: left;
 }
 
 .completo-compra{
     background-color: #1241af;
     color: #f5f5f5;
-    width:6rem;
-    height: 3rem;
-    font-size: 14px;
+    width: 10vw;
+    height: 3vh;
+    font-size: 1vw;
     border-style: none;
-    border-radius: 7%;
+    border-radius: 1vh;
 }
 
 .completo-compra:hover{

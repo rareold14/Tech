@@ -1,18 +1,17 @@
 .qualidades-container{
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
-    width: 85vw;
+    width: 100vw;
     height: auto;
-    padding: 50px 50px 50px 50px;
-    gap: 1.4rem;
+    padding: 5vw;
 }
 
 .qualidades-titulo{
-    font-size: 36.4px;
+    font-size: 2.5vw;
     font-weight: 700;
-    padding-left: 50px;
+    padding-left: 2vw;
 }
 
 .qualidades-imagem{
@@ -30,10 +29,10 @@
 }
 
 .qualidades-atributos{
-    font-size: 15px;
+    font-size: 2vh;
     font-weight: 600;
-    padding: 5px;
-    margin: 3px;
+    padding: 0.7vh;
+    margin: 0.3vh;
     display: flex;
     align-items: center;
     text-align: left;
@@ -44,11 +43,12 @@
     justify-content: flex-start;
     align-content: center;
     color: #282828ee;
-    padding-left: 15px;
+    padding-left: 1.5vw;
     border-style: solid;
-    border-width: 1px 1px 1px 1px;
+    border-width: 0.25vh;
     border-color: #d9d9d9cc;
     width: 20vw;
+    min-height: 5vh;
 }
 
 .qualities-paragrafo{
@@ -57,45 +57,45 @@
 }
 
 .icones{
-    margin-right: 12px;
+    margin: 0.5vh;
     color: #191919;
-    margin-top: 10px;
+    font-size: 1.6vw;
 }
 
 .apresentacoes{
     display: flex;
     justify-content: center;
-    padding-left: 40px;
+    padding-left: 4vh;
     background: #d9d9d9cc;
     border-style: solid;
-    border-width: 1px 1px 1px 1px;
+    border-width: 0.25vh;
     border-color: #d9d9d9cc;
     color: #2a2a2a;
     align-self: center;
     width: 50vw;
-    max-height: 51px;
+    min-height: 5vh;
 }
 
 .qualities-paragrafo2{
-    font-size: 13px;
+    font-size: 1.6vh;
     text-align: center;
-    margin-top: 10px;
-    padding-bottom: 5px;
+    margin-top: 1vh;
+    padding-bottom: 0.5vh;
 }
 
 .apresentacoes1{
     display: flex;
     justify-content: center;
-    padding-left: 40px;
-    margin-right: 20px;
+    padding-left: 4vh;
+    margin-right: 1.34vw;
     background: #d9d9d9cc;
     border-style: solid;
-    border-width: 1px 1px 1px 1px;
+    border-width: 0.25vh;
     border-color: #d9d9d9cc;
     color: #2a2a2a;
     align-items: center;
     width: 25vw;
-    max-height: 51px;
+    min-height: 5vh;
 }
 
 .apresentacoes2{
@@ -104,12 +104,12 @@
     padding-left: 16px;
     background: #d9d9d9cc;
     border-style: solid;
-    border-width: 1px 1px 1px 1px;
+    border-width: 0.25vh;
     border-color: #d9d9d9cc;
     color: #2a2a2a;
     align-items: center;
     width: 23.7vw;
-    max-height: 51px;
+    min-height: 5vh;
 }
 
 .qualidades-compra{
@@ -124,10 +124,11 @@
     color: whitesmoke;
     border: solid;
     border: #1241af;
-    border-radius: 2mm;
-    margin: 14px 14vw 14px 0px;
+    border-radius: 1vh;
+    margin: 1.4vw 14vw 1.4vw 0px;
     width: 23.7vw;
-    height: 51px;
+    height: 5vh;
+    font-size: 1vw;
 }
 
 .qualidades-botao:hover{

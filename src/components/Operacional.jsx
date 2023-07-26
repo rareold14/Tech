@@ -23,9 +23,11 @@ export const Operacional = () => {
         </div>
     </div>
     <div className="memoria-ram-container">
-        <h3 className="memoria-ram-titulo">Memória</h3>           
+        <h3 className="memoria-ram-titulo">Memória</h3>     
+        <div className="memoria-espaco">     
         <h2 className="memoria-ram-subtitulo">com 8Gb DDR3</h2>
         <p className='memoria-ram-texto'>Inicie o sistema operacional, feche e abra programas mais rápido do que nunca.</p>
+        </div> 
     </div>
     </div>
   </>

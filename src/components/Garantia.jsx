@@ -17,7 +17,7 @@ export const Garantia = () => {
             </h3>
         </span>
         <span className="garantia-entrega">
-            <BiBarcode size={43} className='garantia-icones'/>
+            <BiBarcode className='garantia-icones'/>
             <h3 className='garantia-texto'>
                 Até 5% off
                 <br/>
@@ -25,7 +25,7 @@ export const Garantia = () => {
             </h3>
         </span>
         <span className="garantia-entrega">
-            <HiOutlineCreditCard size={43} className='garantia-icones'/>
+            <HiOutlineCreditCard className='garantia-icones'/>
             <h3 className='garantia-texto'>
                 Pagamento com
                 <br/>
@@ -33,7 +33,7 @@ export const Garantia = () => {
             </h3>
         </span>
         <span className="garantia-entrega">
-            <PiSealCheckBold size={43} className='garantia-icones'/>
+            <PiSealCheckBold className='garantia-icones'/>
             <h3 className='garantia-texto'>
                 Garantia de 12 meses
                 <br/>

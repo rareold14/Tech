@@ -1,12 +1,10 @@
 import React from 'react'
 import './Windows10.css'
-import WallpaperWindows from '../assets/WallpaperWindows.png'
 import Windows10Logo from '../assets/WindowsLogo.png'
 
 const Windows10 = () => {
   return (
     <div className="wallpaper-windows">
-        <img src={WallpaperWindows} alt="Wallpaper inicial do Windows" className="windows10" />
         <img src={Windows10Logo} alt="Logo do Windows 10" className="windows10-logo" />
         <h4 className="windows10-titulo">
             Windows 10

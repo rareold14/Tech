@@ -16,7 +16,7 @@ export const Vendas = () => {
             Computador Completo All-in-One Intel i7 8GB SSD 512GB 21,5″ Full HD Webcam Teclado e Mouse Sem Fio Strong Tech
             </h2>
                 <span className="vendas-visualizacoes">
-                    <AiOutlineEye size={22} className='vendas-icones'/>
+                    <AiOutlineEye className='vendas-icones'/>
                     <p>0 pessoas estão vendo este produto agora!</p>
                 </span>         
             <h3 className="vendas-cincoporcento">5% de Desconto</h3>

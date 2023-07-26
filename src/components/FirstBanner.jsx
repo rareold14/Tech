@@ -6,6 +6,7 @@ export const FirstBanner = () => {
   return (<>
     <div className="first-banner-div">
       <img src={AllInOne} alt='All-in-One' className='all-in-one1'/>
+    <div className="first-banner-textos">
         <h1 className="first-banner-titulo">Novo All-in-One</h1>
         <p className="first-banner-descricao">Computador Completo
         <br/>
@@ -14,6 +15,7 @@ export const FirstBanner = () => {
         SSD 512 Gb 21,5” Full HD
         <br/>
         Webcam Teclado e Mouse Sem Fio</p>
+    </div>
     </div>
   </>
   )

@@ -26,7 +26,7 @@ export const Qualidades = () => {
 <div className="qualidades-apresentacoes">
     <div className="qualidades-atributos">
       <span className="qualities">
-        <GiProcessor size={28} className='icones'/>
+        <GiProcessor className='icones'/>
         <p>Processamento</p>
       </span>  
       <span className="apresentacoes"> 
@@ -35,7 +35,7 @@ export const Qualidades = () => {
     </div>
      <div className="qualidades-atributos">
       <span className="qualities">
-        <SiWindows size={28} className='icones'/>
+        <SiWindows className='icones'/>
         <p>Sistema Operacional</p>
       </span>
       <span className="apresentacoes">
@@ -46,7 +46,7 @@ export const Qualidades = () => {
     </div>
     <div className="qualidades-atributos">
       <span className="qualities">
-        <FaLinux size={28} className='icones'/>
+        <FaLinux className='icones'/>
         <p>Outro Sistema Operacional</p>
       </span>
       <span className="apresentacoes">
@@ -57,7 +57,7 @@ export const Qualidades = () => {
       </div>
       <div className="qualidades-atributos">
         <span className="qualities">
-          <BsGpuCard size={28} className='icones'/>
+          <BsGpuCard className='icones'/>
           <p>Gráficos</p>
         </span>
         <span className="apresentacoes">
@@ -66,51 +66,51 @@ export const Qualidades = () => {
      </div>
      <div className="qualidades-atributos">
       <span className="qualities">
-        <FaMemory size={28} className='icones'/>
+        <FaMemory className='icones'/>
         <p>Memória RAM</p>
       </span>
       <span className="apresentacoes">
-        <p className="qualities-paragrafos">
+        <p className="qualities-paragrafo">
           8GB DDR3
         </p>
       </span>
      </div>
      <div className="qualidades-atributos">
       <span className="qualities">
-        <BsDeviceSsdFill size={28} className='icones'/>
+        <BsDeviceSsdFill className='icones'/>
         <p>Armazenamento</p>
       </span>
       <span className="apresentacoes">
-        <p className="qualities-paragrafos">
+        <p className="qualities-paragrafo">
           SSD de 512GB
         </p>
       </span>
      </div>
      <div className="qualidades-atributos">
       <span className="qualities">
-        <BiSolidWebcam size={28} className='icones'/>
+        <BiSolidWebcam className='icones'/>
         <p>Webcam</p>
       </span>
       <span className="apresentacoes">
-        <p className="qualities-paragrafos">
+        <p className="qualities-paragrafo">
         Webcam frontal integrada de 720p, com webcam cover
         </p>
       </span>
      </div>
      <div className="qualidades-atributos">
       <span className="qualities">
-        <BiLock size={28} className='icones'/>
+        <BiLock className='icones'/>
         <p>Segurança</p>
       </span>
       <span className="apresentacoes">
-        <p className="qualities-paragrafos">
+        <p className="qualities-paragrafo">
           Windows Defender
         </p>
       </span>
      </div>
      <div className="qualidades-atributos">
       <span className="qualities">
-        <FaUsb size={28} className='icones'/>
+        <FaUsb className='icones'/>
         <p>Portas e Conexões</p>
       </span>
       <span className="apresentacoes">
@@ -121,7 +121,7 @@ export const Qualidades = () => {
      </div>
      <div className="qualidades-atributos">
       <span className="qualities">
-        <AiOutlineLaptop size={28} className='icones'/>
+        <AiOutlineLaptop className='icones'/>
         <p>Tela</p>
       </span>
       <span className="apresentacoes1">
@@ -137,7 +137,7 @@ export const Qualidades = () => {
      </div>
      <div className="qualidades-atributos">
       <span className="qualities">
-        <BsKeyboardFill size={28} className='icones' />
+        <BsKeyboardFill className='icones' />
         <p>Teclado</p>
       </span>
       <span className="apresentacoes1">
@@ -153,7 +153,7 @@ export const Qualidades = () => {
      </div>
      <div className="qualidades-atributos">
       <span className="qualities">
-        <IoColorFilterOutline size={28} className='icones'/>
+        <IoColorFilterOutline className='icones'/>
         <p>Cores</p>
       </span>
       <span className="apresentacoes">
@@ -164,7 +164,7 @@ export const Qualidades = () => {
      </div>
      <div className="qualidades-atributos">
       <span className="qualities">
-        <PiFeatherDuotone size={28} className='icones' />
+        <PiFeatherDuotone className='icones' />
         <p>Peso</p>
       </span>
       <span className="apresentacoes1">
@@ -180,7 +180,7 @@ export const Qualidades = () => {
      </div>
      <div className="qualidades-atributos">
       <span className="qualities">
-        <LiaRulerHorizontalSolid size={28} className='icones'/>
+        <LiaRulerHorizontalSolid className='icones'/>
         <p>Dimensões</p>
       </span>
       <span className="apresentacoes1">

@@ -1,24 +1,22 @@
 .garantia{
     background-color: #e8e8e8;
-    height: 30vh;
+    height: 37vh;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-evenly;
     align-items: stretch;
     text-transform: uppercase;
-    font-size: 15.7px;
+    font-size: 2vh;
 }
 
 .garantia-entrega{
-    padding: 40px 0px 10px 15px;
+    padding: 4vw 0px 1vh 1vh;
 }
 
 .garantia-imagem{
-    width: 43px;
-    height: 43px;
-    padding-top: 5px;
+    width: 4.5vh;
 }
 
 .garantia-icones{
-    padding-top: 5px;
+    font-size: 2.2vw;
 }

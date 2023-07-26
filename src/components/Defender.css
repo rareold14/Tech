@@ -1,5 +1,6 @@
 .windows-defender{
     display: flex;
+    margin-top: 1.4vw;
     flex-direction: row nowrap;
     justify-content: space-between;
     align-items: center;
@@ -11,21 +12,24 @@
 .defender-conteudo{
     display: flex;
     justify-content: stretch;
-    padding-left: 140px;
+    padding-left: 10vw;
     color: #f5f5f5;
 }
 
 .defender{
-    line-height: 3.4rem;
-    padding-right: 80px;
+    line-height: 3vw;
+    padding-right: 5vh;
 }
 
 .defender-texto{
-    font-size: 17px;
+    font-size: 2.2vh;
     font-weight: 600;
 }
 
 .defender-visual{
-    padding: 30px;
     padding-left: 30vw;
+}
+
+.defender-imagem{
+    width: 15vw;
 }

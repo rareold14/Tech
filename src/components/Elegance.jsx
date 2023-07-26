@@ -16,7 +16,7 @@ export const Elegance = () => {
     <div className="elegance-atributos-container">
       <div className="elegance-atributos-produtividade">
         <div className="elegance-icon">
-          <LuRadioTower size={38}/></div>
+          <LuRadioTower/></div>
         <div className="elegance-elementos-conteudo">
             <h3 className="elegance-elementos-titulo">
               <span>Produtividade</span></h3>
@@ -27,7 +27,7 @@ export const Elegance = () => {
           </div>
           <div className="elegance-atributos-entretenimento">
             <div className="elegance-icon">
-              <TfiMusicAlt size={38}/>
+              <TfiMusicAlt/>
             </div>
             <div className="elegance-elementos-conteudo">
               <h3 className="elegance-elementos-titulo">
@@ -39,7 +39,7 @@ export const Elegance = () => {
           </div>
           <div className="elegance-atributos-inteligencia">
             <div className="elegance-icon">
-            <HiOutlineLightBulb size={38}/>
+            <HiOutlineLightBulb/>
             </div>
             <div className="elegance-elementos-conteudo">
               <h3 className="elegance-elementos-titulo">

@@ -1,8 +1,7 @@
 .entradas{
 display: flex;
 justify-content: center;
-padding-top: 32px;
-gap: 1.8rem;
+padding-top: 1vw;
 }
 
 .entradas-container{
@@ -10,12 +9,12 @@ display: flex;
 flex-flow: row wrap;
 align-items: center;
 justify-content: space-evenly;
-padding: 60px 50px 20px 120px;
+padding: 1.8vh;
 }
 
 .entradas-titulo{
-font-size: 38px;
-letter-spacing: 3.5px;
+font-size: 5vh;
+letter-spacing: 0.3vh;
 align-self: center;
 text-align: center;
 font-weight: 700;
@@ -25,7 +24,7 @@ font-weight: 700;
 text-align: left;
 align-self: center;
 width: 30vw;
-font-size: 16.7px;
+font-size: 2.2vh;
 font-weight: 500;
 }
 
@@ -33,19 +32,19 @@ font-weight: 500;
 width: 50%;
 height: 50%;
 align-self: center;
-padding-right: 80px;
+padding: 1.5vw;
 }
 
 .entradas-entradas{
 display: flex;
 flex-flow: row wrap;
 justify-content: center;
-gap: 3.7rem;
+gap: 3.7vw;
 }
 
 .entradas-portas{
-padding-top: 10px;
-font-size: 25.7px;
+padding-top: 1vw;
+font-size: 3.2vh;
 font-weight: 900;
 color: #ae9555;
 text-align: center;
@@ -54,7 +53,7 @@ text-align: center;
 .entradas-conexoes{
 align-self: center;
 font-weight: 500;
-font-size: 16.7px;
+font-size: 1.92vh;
 color:#12121f;
 text-align: center;
 }

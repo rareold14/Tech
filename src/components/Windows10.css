@@ -1,7 +1,15 @@
 .wallpaper-windows{
-    position: relative;
-    margin-top: 40px;
-    margin-left: -15px;
+    background-image: url(../assets/WallpaperWindows.png);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-color: transparent;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding-top: 4vw;
+    padding-left: 10vw;
 }
 
 .windows10{
@@ -9,49 +17,33 @@
 }
 
 .windows10-logo{
-    position: absolute;
-    top: 5%;
-    left: 15%;
+    width: 13vw;
 }
 
 .windows10-titulo{
-    position: absolute;
-    top: 10%;
-    left: 15%;
-    font-size: 38px;
+    font-size: 4vh;
     font-weight: 400;
-    letter-spacing: 1.4px;
     text-align: left;
     color: #f5f5f5;
 }
 
-.windows10-paragrafo1{
-    position: absolute;
-    width: 22rem;
-    text-align: left;
-    top: 32%;
-    left: 15%;
-    font-size: 20px;
+.windows10-paragrafo1{  
+    width: 20vw;
+    text-align: left; 
+    font-size: 2vh;
     color: #f5f5f5;
 }
 
-.windows10-subtitulo{
-    position: absolute;
-    top: 55%;
-    left: 15%;
-    font-size: 38px;
+.windows10-subtitulo{   
+    font-size: 4vh;
     font-weight: 400;
-    letter-spacing: 1.4px;
     text-align: left;
     color: #f5f5f5;
 }
 
-.windows10-paragrafo2{
-        position: absolute;
-        width: 22rem;
-        text-align: left;
-        top: 67%;
-        left: 15%;
-        font-size: 20px;
-        color: #f5f5f5;
+.windows10-paragrafo2{    
+    width: 20vw;
+    text-align: left;
+    font-size: 2vh;
+    color: #f5f5f5;
 }

@@ -53,9 +53,9 @@ export const Footer = () => {
                 Mídias Sociais
             </p>
             <span className="footer-sociais-icones-lista">
-            <GrFacebook size={23} className='footer-sociais-icones'/>
-            <GrTwitter size={23} className='footer-sociais-icones'/>
-            <GrYoutube size={23} className='footer-sociais-icones'/>
+            <GrFacebook className='footer-sociais-icones'/>
+            <GrTwitter className='footer-sociais-icones'/>
+            <GrYoutube className='footer-sociais-icones'/>
             </span>
         </div>
         <div className="footer-atendimento">
@@ -82,7 +82,7 @@ export const Footer = () => {
                 <p className="footer-seguranca-titulo">
                     Selos de Segurança
                 </p>
-                <img src={Encrypt} alt="Selo de segurança" className="footer-seguranca-imagem" />
+                <img src={Encrypt} alt="Selo de segurana" className="footer-seguranca-imagem" />
             </div>
         </div>
     </div>

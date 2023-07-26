@@ -2,11 +2,11 @@
     display: flex;
     flex-flow: row nowrap;
     justify-content: center;
-    padding: 3rem 3rem 3rem 10rem;
+    padding: 5vw 10vw;
 }
 
 .vendas-visual{
-    margin: 4rem;
+    margin: 4vw;
 }
 
 .vendas-allinone{
@@ -14,46 +14,51 @@
 }
 
 .vendas-titulo{
-    margin-right: 8.8rem;
-    font-size: 32px;
+    margin-right: 10vw;
+    font-size: 3vh;
 }
 
 .vendas-visualizacoes{
     display: flex;
     background-color: rgb(185, 195, 255);
     width: 34vw;
-    height: 50px;
-    border-radius:.7em;
+    height: 3.5vw;
+    border-radius:1vw;
+    margin-top: 1.2vh;
 }
 
 .vendas-visualizacoes p{
     color: #777777;
+    margin: 2vh;
+    font-size: 1vw
 }
 
 .vendas-icones{
     color: #1106ce;
-    margin: 12px 6px 0px 6px;
+    margin: 2vh;
+    font-size: 2.4vh;
 }
 
 .vendas-cincoporcento{
     color: #1106ce;
-    font-size: 25px;
+    font-size: 2.5vh;
 }
 
 .vendas-pix{
-    font-size: 34px;
+    font-size: 2.7vh;
     font-weight: 500;
-    padding: unset;
+    line-height: 3.8vh;
+    padding-bottom: 2.62vh;
 }
 
 .vendas-preco{
-    font-size: 23px;
-    font-size: 400;
+    font-size: 2.82vh;
+    font-weight: 400;
     padding: unset;
 }
 
 .preco{
-    font-size: 27px;
+    font-size: 2.8vh;
 }
 
 .vendas-botao{
@@ -61,10 +66,11 @@
     color: whitesmoke;
     border: solid;
     border: #1241af;
-    border-radius: 2mm;
+    border-radius: 1vh;
     margin: unset;
     width: 17.7vw;
-    height: 51px;
+    height: 5vh;
+    font-size: 1vw;
 }
 
 .vendas-botao:hover{

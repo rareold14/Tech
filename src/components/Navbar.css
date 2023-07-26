@@ -3,8 +3,8 @@
     flex-flow: row nowrap;
     justify-content: space-around;
     align-items: flex-start;
-    padding:.5rem 1rem;
-    margin: 20px;
+    padding: 2vh;
+    margin: 2vw;
 }
 
 .strong-logo{
@@ -20,16 +20,18 @@
 
 .windows-10{
     flex-direction: row;
+    font-size: 1.3vw;
 }
 
 .link-strong{
-  width: 100px;
-  height: 40px;
+  width: 10vw;
+  height: 4vh;
   text-align: center;
   color: #F5f5f5;
   background-color: #1241af;
   border: none;
-  border-radius: 10px;
+  border-radius: 1vh;
+  font-size: 1.6vh;
 }
 
 .link-strong:hover{

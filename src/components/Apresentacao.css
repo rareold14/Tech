@@ -3,31 +3,27 @@
     flex-flow: row wrap;
     align-items: center;
     justify-content: space-evenly;
-    padding: 30px;
-}
-
-.strong-container{
-    font-family: 'Roboto', sans-serif;
-}    
-
-.strong-container2{
-    font-family: 'Roboto', sans-serif;                                         
 }
 
 .versatilidade{
+    display: flex;
     background-color: #0a1442;
-    width: 30vw;
-    height: 68vh;
+    width: 63vh;
+    height: 43vw;
     text-align: center;
+    justify-content: space-around;
+    flex-direction: column;
+    margin: 2vh;
 }
 
 .versatilidade-titulo{
     font-size: 1.8vw;
     color: #e9c465;
+    padding: 3vh;
 }
 
 .versatilidade-texto{
-    font-size: 2.2vw;
+    font-size: 1.96vw;
     color: #d1d1d1;
 }
 
@@ -37,21 +33,27 @@
 }
 
 .webcam{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
     background: linear-gradient(190deg, #D5D7DC 51%, #F5f5F5 87%, #fff2e7ad 100%);
     color: #4e4e4ebf;
-    width: 28vw;
-    height: 68vh;
-    text-align: left
-};
+    width: 63vh;
+    height: 43vw;
+    text-align: left;
+}
 
 .webcam-integrada{
     font-size: 1.3vw;
+    padding: 3vh;
 }
 
 .webcam-integrada-subtitulo{
     font-size: 1vw;
+    padding: 3vh;
 }
 
 .webcam-integrada-texto{
     font-size: 1.1vw;
+    padding: 3vh;
 }
