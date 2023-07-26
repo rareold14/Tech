@@ -19,8 +19,14 @@
 }
 
 .windows-10{
+    display: flex;
     flex-direction: row;
     font-size: 1.3vw;
+}
+
+.windows-preco{
+    padding-left: 2.5vh;
+    padding-right: 2.5vh;
 }
 
 .link-strong{
