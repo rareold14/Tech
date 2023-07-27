@@ -6,7 +6,7 @@ export const TecladoMouse = () => {
   return (<>
     <div className="teclado-mouse-conteudo">
         <h1 className="teclado-mouse-titulo">Teclado e Mouse Sem Fio</h1>
-        <p className="teclado-mouse-texto">Liberte-se dos fios. Mais liberdade, mais produtividade. Experimente o conforto e a praticidade do teclado e mouse sem fio do All-in-One Strong Tech.</p>
+        <p className="teclado-mouse-texto">Liberte-se dos fios. Mais liberdade, mais produtividade. Experimente o conforto e a praticidade do teclado e mouse sem fio do All in One Strong Tech.</p>
         <img src={TecladoMouseWireless} alt="Teclado e mouse sem fio." className='teclado-mouse-wireless'/>
     </div>
     <div className="teclado-mouse-containers">
@@ -25,7 +25,7 @@ export const TecladoMouse = () => {
         <div className="som-container">
             <div className="som">
                 <h2 className="som-titulo">Qualidade de som</h2>
-                <p className="som-texto">Viva uma experiência sonora envolvente e imersiva com o som estéreo do All-in-One da Strong Tech. Desfrute de áudio cristalino e potente, que traz vida aos seus filmes, músicas e jogos favoritos. Transforme sua área de trabalho em um verdadeiro centro de entretenimento com a qualidade sonora incomparável do All-in-One Strong Tech.</p>
+                <p className="som-texto">Viva uma experiência sonora envolvente e imersiva com o som estéreo do All in One da Strong Tech. Desfrute de áudio cristalino e potente, que traz vida aos seus filmes, músicas e jogos favoritos. Transforme sua área de trabalho em um verdadeiro centro de entretenimento com a qualidade sonora incomparável do All in One Strong Tech.</p>
             </div>
         </div>
     </div>

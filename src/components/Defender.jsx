@@ -9,7 +9,7 @@ export const Defender = () => {
       <div className="defender-conteudo">
         <span className="defender">
           <p className="defender-texto">
-          Seu novo All-in-One já vem com o Windows instalado.
+          Seu novo All in One já vem com o Windows instalado.
           <br/>
           Experimente ao máximo uma vida digital segura.
           </p>

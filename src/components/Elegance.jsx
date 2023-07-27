@@ -11,7 +11,7 @@ export const Elegance = () => {
           <h2 className="elegance-atributos-titulo">
             A produtividade e a elegância juntas,
             <br/>
-            no seu All-in-One Strong Tech®!
+            no seu All in One Strong Tech®!
         </h2></div>
     <div className="elegance-atributos-container">
       <div className="elegance-atributos-produtividade">
@@ -21,7 +21,7 @@ export const Elegance = () => {
             <h3 className="elegance-elementos-titulo">
               <span>Produtividade</span></h3>
               <p className="elegance-elementos-texto">
-                Faça da sua casa e trabalho mais fáceis com o All-in-One!
+                Faça da sua casa e trabalho mais fáceis com o All in One!
               </p>
           </div>
           </div>
@@ -34,7 +34,7 @@ export const Elegance = () => {
               <span>Entretenimento</span>
               </h3>
             <p className="elegance-elementos-texto">
-              Desde músicas e audiobooks até suas séries favoritas! Deixe o All-in-One te entreter!
+              Desde músicas e audiobooks até suas séries favoritas! Deixe o All in One te entreter!
             </p></div>
           </div>
           <div className="elegance-atributos-inteligencia">
@@ -46,7 +46,7 @@ export const Elegance = () => {
               <span>Mais inteligência</span>
               </h3>
               <p className="elegance-elementos-texto">
-              Conte e execute suas tarefas de forma mais inteligente com o All-in-One!
+              Conte e execute suas tarefas de forma mais inteligente com o All in One!
               </p>
             </div>
           </div>

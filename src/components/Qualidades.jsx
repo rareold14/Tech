@@ -18,7 +18,7 @@ export const Qualidades = () => {
         <p className="qualidades-allinone">
             O melhor<br/>
             está em um<br/>
-            All-in-One
+            All in One
         </p>
     </div>
     <img src={QualidadeImagem} alt="O melhor do All-in-One para você" className="qualidades-imagem" />
@@ -199,7 +199,7 @@ export const Qualidades = () => {
       <a href='https://strongtechbrasil.com.br/produto/computador-completo-all-in-one-intel-i7-8gb-ssd-512gb-215-full-hd-webcam-teclado-e-mouse-sem-fio-strong-tech/?add-to-cart=10015' 
       className='qualidades-compra-link'>
         <button className='qualidades-botao'>
-         Comprar o All-in-One Core i7
+         Comprar o All in One Core i7
         </button></a>
      </div>
   </>

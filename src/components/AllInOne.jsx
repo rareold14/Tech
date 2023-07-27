@@ -11,7 +11,7 @@ export const AllInOne = () => {
       Beleza e
        <br/>
       Classe</h2>
-      <p className="all-in-one-texto">O All-in-One é fabricado com um design fino e leve. Foi projetado detalhadamente para ter desempenho e elegância.</p>
+      <p className="all-in-one-texto">O All in One é fabricado com um design fino e leve. Foi projetado detalhadamente para ter desempenho e elegância.</p>
       <div className="all-in-one-atributos">
         <div className='all-in-one-valores'>
           <h2>21,5"</h2>

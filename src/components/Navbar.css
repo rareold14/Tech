@@ -3,8 +3,7 @@
     flex-flow: row nowrap;
     justify-content: space-around;
     align-items: flex-start;
-    padding: 2vh;
-    margin: 2vw;
+    padding: 1.14vh;
 }
 
 .strong-logo{
@@ -22,27 +21,28 @@
     display: flex;
     flex-direction: row;
     font-size: 1.3vw;
+    margin: 1vw;
 }
 
 .windows-preco{
+    padding-top: 1.5vh;
     padding-left: 2.5vh;
     padding-right: 2.5vh;
 }
 
 .link-strong{
-  width: 10vw;
-  height: 4vh;
+  width: 12vw;
+  height: 6vh;
   text-align: center;
   color: #F5f5f5;
   background-color: #1241af;
   border: none;
   border-radius: 1vh;
-  font-size: 1.6vh;
+  font-size: 1.9vh;
 }
 
 .link-strong:hover{
     background-color: #1414af;
     color: #ddd;
-    transition: all ease-out 2.2s ;
     cursor: pointer;
 }
