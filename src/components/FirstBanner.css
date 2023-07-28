@@ -10,10 +10,11 @@
 .all-in-one1{
     max-width: 48vw;
     opacity: 0.87;
+    margin-left: 5vw;
 }
 
 .first-banner-textos{
-   padding: 20vh;
+   padding: 14vh;
 }
 
 .first-banner-titulo{
