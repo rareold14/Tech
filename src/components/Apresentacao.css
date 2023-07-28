@@ -8,12 +8,13 @@
 .versatilidade{
     display: flex;
     background-color: #0a1442;
-    width: 63vh;
+    width: 55vh;
     height: 43vw;
     text-align: center;
     justify-content: space-around;
     flex-direction: column;
     margin: 2vh;
+    padding: 8vh;
 }
 
 .versatilidade-titulo{
@@ -38,9 +39,10 @@
     justify-content: space-evenly;
     background: linear-gradient(190deg, #D5D7DC 51%, #F5f5F5 87%, #fff2e7ad 100%);
     color: #4e4e4ebf;
-    width: 63vh;
+    width: 55vh;
     height: 43vw;
     text-align: left;
+    padding: 8vh;
 }
 
 .webcam-integrada{

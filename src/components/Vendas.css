@@ -67,8 +67,8 @@
     border: solid;
     border: #1241af;
     border-radius: 1vh;
-    margin: unset;
-    width: 17.7vw;
+    margin-top: 2vh;
+    width: 17vw;
     height: 5vh;
     font-size: 1vw;
 }

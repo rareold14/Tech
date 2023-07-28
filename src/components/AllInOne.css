@@ -6,10 +6,9 @@
 }
 
 .all-in-one-container{
-    width: 20vw;
+    width: 31vw;
     display: flex;
     flex-flow: column wrap;
-    justify-content: baseline;
     align-content: flex-start;
     padding-left: 6vw;
     padding-top: 3vw;
@@ -18,7 +17,6 @@
 .all-in-one-titulo{
     font-size: 2.6vw;
     width: 1.6vw;
-    letter-spacing: 1.44px;
 }
 
 .all-in-one-texto{
@@ -53,9 +51,10 @@ align-items: center;
 }
 
 .all-in-one-imagem{
- width: 68%;
- padding-left: 4vw;
+ width: 67%;
+ margin-left: 14vw;
 }
 
 
 
+ 

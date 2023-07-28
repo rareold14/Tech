@@ -5,7 +5,7 @@
     align-items: center;
     width: 100vw;
     height: auto;
-    padding: 5vw;
+    padding-bottom: 1vw;
 }
 
 .qualidades-titulo{
@@ -42,6 +42,7 @@
     display: flex;
     justify-content: flex-start;
     align-content: center;
+    align-items: center;
     color: #282828ee;
     padding-left: 1.5vw;
     border-style: solid;
@@ -53,7 +54,7 @@
 
 .qualities-paragrafo{
     align-self: center;
-
+    padding-left: 1vh;
 }
 
 .icones{
